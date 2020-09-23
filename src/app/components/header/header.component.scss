@@ -1,0 +1,44 @@
+nav{
+
+    a.nav-link {
+        font-size: 25px;
+    }
+
+    .fa.fa-facebook-square{
+      color:#3b5998;
+    }
+    .fa.fa-instagram{
+        color:#c32aa3;
+    }
+
+    .fa.fa-google-plus-square{
+        color:#ea4335 ;
+
+    }
+    .notifications{
+    .fa.fa-shopping-cart{
+        position: relative;
+        color:black;
+
+    }
+    .Number{
+        position: absolute;
+        font-size: 11px;
+        background: red;
+        padding: 2px 7px;
+        border-radius: 50%;
+        color: white;
+        font-weight: 500;
+        left: 24px;
+        top: 6px;
+    }
+    .dropdown-menu {
+        position: absolute;
+        top: 100%;
+        left: -29px;
+    }
+    
+}
+
+}
+

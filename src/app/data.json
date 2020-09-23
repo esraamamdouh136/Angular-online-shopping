@@ -1,0 +1,76 @@
+{
+  "products": [{
+      "_id": "product1",
+      "title": "product Name",
+      "image": "../../../assets/Images/product1.png",
+      "category": "Mobiles & Tablets ",
+      "price": "220",
+      "available": "No available"
+    },
+    {
+      "_id": "product2",
+      "title": "product Name",
+      "image": "../../../assets/Images/product2.png",
+      "category": "computers & Networking ",
+      "price": "240",
+      "available": "available"
+    },
+    {
+      "_id": "product3",
+      "title": "product Name",
+      "image": "../../../assets/Images/product3.png",
+      "category": "Men Shoes ",
+      "price": "210",
+      "available": "No available"
+    },
+    {
+      "_id": "product4",
+      "title": "product Name",
+      "image": "../../../assets/Images/product4.png",
+      "category": "Electronics",
+      "price": "220",
+      "available": "available"
+    },
+    {
+      "_id": "product5",
+      "title": "product Name",
+      "image": "../../../assets/Images/product5.png",
+      "category": "Sports",
+      "price": "220",
+      "available": "available"
+    },
+    {
+      "_id": "product6",
+      "title": "product Name",
+      "image": "../../../assets/Images/product6.png",
+      "category": "women Shoes",
+      "price": "220",
+      "available": "available"
+    },
+    {
+      "_id": "product7",
+      "title": "product Name",
+      "image": "../../../assets/Images/product7.png",
+      "category": "Mobiles & Tablets ",
+      "price": "220",
+      "available": "No available"
+    },
+    {
+      "_id": "product8",
+      "title": "product Name",
+      "image": "../../../assets/Images/product8.png",
+      "category": "computers & Networking ",
+      "price": "240",
+      "available": "available"
+    },
+    {
+      "_id": "product9",
+      "title": "product Name",
+      "image": "../../../assets/Images/product9.png",
+      "category": "Men Shoes ",
+      "price": "210",
+      "available": "No available"
+    }
+
+  ]
+}
